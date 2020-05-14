@@ -1,0 +1,133 @@
+.block{
+    /* background-color: blue; */
+    height: 787px;
+    width: 1900px;
+}
+.container{
+    /* background-color:yellow; */
+    height: 787px;
+    width: 1170px;
+    margin-left: 365px;} 
+.section1 {
+    display: flex;
+    justify-content: space-around;
+} 
+.photo{
+    margin-top: 105px;
+}
+.section2{
+    display: flex;
+    justify-content:space-around;
+    font-size: 22px; 
+    color: #2d3033;
+    font-family: "Raleway"; 
+}
+.header1{
+    margin-right:130px;
+    margin-bottom: -30px;
+}  
+.header2{
+    margin-right:110px;
+    margin-bottom: -30px;
+}  
+.header3{
+    margin-right:100px;
+    margin-bottom: -30px;
+}  
+.header4{
+    margin-right:110px;
+    margin-bottom: -30px;
+}  
+.section3{
+    display: flex;
+    justify-content:space-around ;
+    font-size: 13px; 
+    color: #e84545;
+    font-family: "Raleway";
+}
+.h1{
+    margin-right:150px;
+}
+.h2{
+    margin-right: 70px;
+}
+.h3{
+    margin-right: 170px;
+}
+.h4{
+    margin-right: 150px;
+}
+.section4{
+    display: flex;
+    justify-content:space-around; 
+}
+.text{
+    margin:15px;
+    font-size: 14px; 
+    line-height: 21px; 
+    color: #6c7279;
+    font-family: "Raleway";   
+}
+.icon1{
+    height: 40px;
+    width: 40px;
+    /* border: 1px solid red;  */
+    position: relative;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: 5px;   
+}
+.square1{
+    width: 40px;
+    height: 40px; 
+    background-color: #ffffff;
+    border: 1px solid #e8ecee;  
+    position: absolute;  
+}
+.icono4ka1{
+    width: 8px;
+    height: 18px;
+    position: absolute;
+}
+.icono4ka2{
+    width: 20px;
+    height: 14px; 
+    position: absolute;
+}
+.icono4ka3{
+    width: 16px;
+    height: 16px;
+    border-radius: 1px; 
+    position: absolute;  
+} 
+.blocicon1{
+    display: flex;
+    justify-content:space-around;
+    margin: 10px;
+    margin-right: 130px;
+}
+.blocicon2{
+    display: flex;
+    justify-content:space-around;
+    margin: 10px;
+    margin-right: 130px; 
+}
+.blocicon3{
+    display: flex;
+    justify-content:space-around;
+    margin: 10px;
+    margin-right: 130px; 
+}
+.blocicon4{
+    display: flex;
+    justify-content:space-around;
+    margin: 10px;
+    margin-right: 130px; 
+}
+.section5{
+    display: flex;
+    justify-content: space-around;  
+} 
+
+
